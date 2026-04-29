@@ -12,6 +12,12 @@
 	Curated resources to support the SEC556 IoT Penetration Testing course. This section includes videos, blogs, tools, firmware references, and real-world research to help you understand, replicate, and go beyond the labs.
 </p>
 
+---
+
+**Version 0.1**
+
+This initial version was compiled quickly during the course. I plan to refine and expand this repository over time with deeper content, better organization, and more advanced research.
+
 
 
 ---
