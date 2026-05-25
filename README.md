@@ -38,9 +38,11 @@ In addition to the review itself, this repository will include resources and pra
 				<li><a href="#review_day1">Day 1</a></li>
 				<li><a href="#review_day2">Day 2</a></li>
 				<li><a href="#review_day3">Day 3</a></li>
+				<li><a href="#review_day4_5">Day 4 & 5 (CTF - Core NetWars)</a></li>
 			</ul>
 		</details>
 	</li>
+	<li><a href="#kit">Kit</a></li>
 	<li><a href="#scripts">Scripts</a></li>
 	<li><a href="#prelabs">Pre-Labs</a></li>
 	<li><a href="#resources">Resources</a></li>
@@ -80,7 +82,7 @@ Honestly, I'd say it's probably one of the most complete courses out there when 
 
 <div id='review_day1'/>
 
-## ***📡 Day 1***
+### ***📡 Day 1***
 
 As I mentioned before, Day 1 is mainly focused on introducing IoT security. The full syllabus is available on the official website, so anyone can check the exact contents there, but broadly speaking, this first day is about getting into the foundations of IoT security.
 
@@ -102,7 +104,7 @@ As course material, and as the first day of the training, I think it is a very s
 
 <div id='review_day2'/>
 
-## ***🔧 Day 2***
+### ***🔧 Day 2***
 
 If I had to summarize Day 2 with a single title, it would clearly be hardware hacking.
 
@@ -128,7 +130,7 @@ If I had to give it a score, I'd say around an 9. The knowledge you get here is 
 
 <div id='review_day3'/>
 
-## ***📶 Day 3***
+### ***📶 Day 3***
 
 I'm not even sure how to properly start this one, but if I had to describe Day 3 in a simple way, I'd call it "signal".
 
@@ -157,6 +159,48 @@ It brings everything together in just three days, with real cases, actual device
 And after that, even if you've completed all the labs like I did, if you're curious, you're not done. You actually end up with a lot of ideas. You start thinking about real cases you want to reproduce, devices you want to get, projects you want to build, things you want to test yourself.
 
 So in the end, you don't just finish the course, you leave with everything you need to keep going.
+
+---
+
+<div id='review_day4_5'/>
+
+### ***🏁 Day 4 & 5 (CTF - Core NetWars)***
+
+Unlike other SANS courses that run for five full days, SEC-556 is a three-day course. So technically, there is no "Day 4" or "Day 5" in terms of training content.
+
+However, SANS usually complements the course with an optional CTF experience, which is where these extra days come into play.
+
+Once you have access to a SANS course, you're typically invited to participate in a [NetWars](https://www.sans.org/cyber-ranges#netwars)-style CTF, which runs separately from the training itself. This usually takes place in specific time slots after the course hours. For example, if the course runs from 10:00 to 18:30, the CTF might take place later in the evening, something like 19:30 to 22:30.
+
+This CTF is shared with other participants, and it's designed as a more general, multidisciplinary challenge, not strictly limited to IoT. It covers a wide range of topics and is meant to test your ability to think, adapt, and solve problems under time pressure.
+
+In my case, these "Day 4 and 5" were entirely focused on that experience.
+
+That said, there is quite a lot to unpack when it comes to how the CTF works, how I approached it, the strategy behind it, and what you actually need if you're planning to take part in it.
+
+Because of that, instead of trying to compress everything into this section, I created a separate repository dedicated entirely to the NetWars experience:
+
+👉 [SANS Core NetWars Tournament & Skills Quest by NetWars](https://github.com/TheMalwareGuardian/SANS-Core-NetWars-and-Skills-Quest)
+
+There, I go into detail about the approach, challenge types, final ranking, lessons learned, and how to properly prepare if you want to get the most out of it.
+
+
+
+---
+---
+---
+
+
+
+<div id='kit'/>
+
+## ***🔩 Kit***
+
+One of the biggest advantages of this course is the hardware kit they give you. It is not just a couple of devices, it is a full set of tools that, if you look at it, is easily worth more than $600 today.
+
+Since that is a key part of the experience and something not many people talk about when reviewing this course, I decided to document it properly. Every device, every tool, photos of the full kit, so you actually know what you are getting before you sign up.
+
+All of that is available inside the "[Kit](https://github.com/TheMalwareGuardian/SANS-SEC556-IoT-Penetration-Testing/tree/main/04%20Kit)" folder in this repository.
 
 
 
